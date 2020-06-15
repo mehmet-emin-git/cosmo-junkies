@@ -1,7 +1,2 @@
-$bg-color: #333;
-$txt-color: #eee;
-
-body {
-  background-color: $bg-color;
-  color: $txt-color;
-}
+@import '_global';
+@import '_media-queries';
