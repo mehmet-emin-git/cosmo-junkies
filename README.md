@@ -9,7 +9,7 @@ A HTML-CSS website designed with the mobile-first approach using CSS grid
 2. Go to project folder
 
  ``` bash 
- cd /cosmo-junkies 
+ cd cosmo-junkies/
  ```
  
 3. Install dependencies
