@@ -1,4 +1,8 @@
-import '../scss/main.scss';
-import func from './func';
+/* eslint-disable no-console */
+import 'babel-polyfill';
 
-func();
+const test = () => {
+  console.log('ES6 is working...');
+};
+
+test();
